@@ -1,7 +1,5 @@
 # Vehicle Booking Portal
 
-## Application Name: Vehicle Booking Portal
-
 ### 🚗 Overview
 
 This is a Laravel-based web application that allows users to register and book vehicles online. It provides full admin functionality including vehicle management, booking control, and Stripe-based payment processing.
