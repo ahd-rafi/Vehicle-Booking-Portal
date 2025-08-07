@@ -50,13 +50,3 @@ This is a Laravel-based web application that allows users to register and book v
 
 - Admin authentication uses Laravel's built-in system with a **custom guard**
 - Only verified admins can access the dashboard
-
-
-
-## ⚙️ Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/ahd-rafi/Vehicle-Booking-Portal.git
-cd Vehicle-Booking-Portal
